@@ -91,3 +91,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-02-10: perf(core): cache results in settings page to speed up response -->
 <!-- 2025-07-02-11: chore: format notification service with linter -->
 <!-- 2025-07-02-12: docs(ui): fix failing test in payment handler -->
+<!-- 2025-07-02-13: Introduce undo/redo functionality -->
