@@ -88,3 +88,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-02-7: fix(auth): fix typo in event emitter -->
 <!-- 2025-07-02-8: Patch API client to handle connection is lost correctly -->
 <!-- 2025-07-02-9: Sync package.json with upstream changes -->
+<!-- 2025-07-02-10: perf(core): cache results in settings page to speed up response -->
