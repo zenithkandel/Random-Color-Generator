@@ -93,3 +93,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-02-12: docs(ui): fix failing test in payment handler -->
 <!-- 2025-07-02-13: Introduce undo/redo functionality -->
 <!-- 2025-07-02-14: Mock sqlalchemy in dashboard component tests -->
+<!-- 2025-07-02-15: Update .gitignore to exclude config.yml -->
