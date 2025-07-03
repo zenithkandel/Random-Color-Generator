@@ -94,3 +94,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-02-13: Introduce undo/redo functionality -->
 <!-- 2025-07-02-14: Mock sqlalchemy in dashboard component tests -->
 <!-- 2025-07-02-15: Update .gitignore to exclude config.yml -->
+<!-- 2025-07-03-1: Refactor error handler to improve readability -->
