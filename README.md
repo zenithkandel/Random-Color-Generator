@@ -105,3 +105,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-04-3: Fix indentation in file uploader -->
 <!-- 2025-07-04-4: Simplify logger implementation -->
 <!-- 2025-07-04-5: fix: split logger into smaller functions -->
+<!-- 2025-07-04-6: style(core): correct broken redirect logic in task scheduler -->
