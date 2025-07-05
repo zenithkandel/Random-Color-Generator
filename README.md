@@ -114,3 +114,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-05-1: Update axios dependency -->
 <!-- 2025-07-05-2: Add unit tests for config loader -->
 <!-- 2025-07-05-3: Update config values for test environment -->
+<!-- 2025-07-05-4: Mock pytest in payment handler tests -->
