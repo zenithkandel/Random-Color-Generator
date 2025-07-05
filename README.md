@@ -112,3 +112,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-04-10: docs(api): mock react in event emitter tests -->
 <!-- 2025-07-04-11: Resolve stale cache data when connection is lost -->
 <!-- 2025-07-05-1: Update axios dependency -->
+<!-- 2025-07-05-2: Add unit tests for config loader -->
