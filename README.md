@@ -125,3 +125,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-06-5: perf(core): extract helper method from response formatter -->
 <!-- 2025-07-06-6: feat: update config values for test environment -->
 <!-- 2025-07-06-7: Update moment dependency -->
+<!-- 2025-07-06-8: Extend task scheduler with input sanitization -->
