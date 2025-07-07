@@ -137,3 +137,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-07-1: fix: cache results in task scheduler to speed up response -->
 <!-- 2025-07-07-2: docs(core): bump eslint to latest stable version -->
 <!-- 2025-07-07-3: Fix indentation in search indexer -->
+<!-- 2025-07-07-4: Fix edge case where duplicate entries -->
