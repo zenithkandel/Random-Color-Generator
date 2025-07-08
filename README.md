@@ -146,3 +146,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-07-10: Fix edge case where broken pagination -->
 <!-- 2025-07-08-1: Add inline comments to report generator -->
 <!-- 2025-07-08-2: Add multi-language support to API client -->
+<!-- 2025-07-08-3: Add helpers.js to project structure -->
