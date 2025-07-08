@@ -153,3 +153,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-08-7: Document settings page parameters -->
 <!-- 2025-07-08-8: Mock babel in settings page tests -->
 <!-- 2025-07-08-9: Add inline comments to validation util -->
+<!-- 2025-07-08-10: Update README with audit logging instructions -->
