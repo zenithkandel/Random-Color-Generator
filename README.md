@@ -150,3 +150,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-08-4: Handle null check in task scheduler -->
 <!-- 2025-07-08-5: Rename variables in notification service for consistency -->
 <!-- 2025-07-08-6: test: restructure auth module for clarity -->
+<!-- 2025-07-08-7: Document settings page parameters -->
