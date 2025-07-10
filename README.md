@@ -190,3 +190,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-10-3: Update eslint dependency -->
 <!-- 2025-07-10-4: fix: lazy-load notification service dependencies -->
 <!-- 2025-07-10-5: feat: apply consistent spacing in notification service -->
+<!-- 2025-07-10-6: fix(auth): fix wrong date format in export service -->
