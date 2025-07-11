@@ -201,3 +201,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-11-4: Update changelog -->
 <!-- 2025-07-11-5: fix: update requests dependency -->
 <!-- 2025-07-11-6: Fix broken redirect in route handler -->
+<!-- 2025-07-11-7: Handle null check in export service -->
