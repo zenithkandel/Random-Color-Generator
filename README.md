@@ -203,3 +203,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-11-6: Fix broken redirect in route handler -->
 <!-- 2025-07-11-7: Handle null check in export service -->
 <!-- 2025-07-11-8: test: update .gitignore to exclude constants.py -->
+<!-- 2025-07-12-1: chore(core): extract helper method from auth module -->
