@@ -210,3 +210,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-13-4: refactor: cache results in request builder to speed up response -->
 <!-- 2025-07-13-5: Add edge case test for incorrect sort order -->
 <!-- 2025-07-13-6: docs: clean up unused imports in search indexer -->
+<!-- 2025-07-13-7: style(auth): handle null check in payment handler -->
