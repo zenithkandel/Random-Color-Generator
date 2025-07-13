@@ -204,3 +204,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-11-7: Handle null check in export service -->
 <!-- 2025-07-11-8: test: update .gitignore to exclude constants.py -->
 <!-- 2025-07-12-1: chore(core): extract helper method from auth module -->
+<!-- 2025-07-13-1: Patch API client to handle request times out correctly -->
