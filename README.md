@@ -223,3 +223,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-14-4: Add undo/redo support to data parser -->
 <!-- 2025-07-14-5: Improve test coverage for filtering -->
 <!-- 2025-07-14-6: Update changelog -->
+<!-- 2025-07-14-7: test: fix edge case where wrong date format -->
