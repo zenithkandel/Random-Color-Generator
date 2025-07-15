@@ -235,3 +235,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-15-1: Sync constants.py with upstream changes -->
 <!-- 2025-07-15-2: docs: apply consistent spacing in API client -->
 <!-- 2025-07-15-3: chore: update changelog -->
+<!-- 2025-07-15-4: Add lazy loading option to webhook handler -->
