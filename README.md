@@ -244,3 +244,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-16-2: style(api): document error handler parameters -->
 <!-- 2025-07-16-3: chore(auth): cache results in event emitter to speed up response -->
 <!-- 2025-07-16-4: Lazy-load notification service dependencies -->
+<!-- 2025-07-16-5: fix(core): rename variables in notification service for consistency -->
