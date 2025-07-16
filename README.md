@@ -243,3 +243,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-16-1: chore(api): rename variables in validation util for consistency -->
 <!-- 2025-07-16-2: style(api): document error handler parameters -->
 <!-- 2025-07-16-3: chore(auth): cache results in event emitter to speed up response -->
+<!-- 2025-07-16-4: Lazy-load notification service dependencies -->
