@@ -250,3 +250,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-16-8: Fix failing test in profile controller -->
 <!-- 2025-07-17-1: perf: fix stale cache data in data parser -->
 <!-- 2025-07-17-2: chore: introduce dark mode functionality -->
+<!-- 2025-07-17-3: fix(api): add export to CSV option to middleware -->
