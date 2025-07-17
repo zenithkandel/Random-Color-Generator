@@ -257,3 +257,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-17-7: style: extend token manager with webhook events -->
 <!-- 2025-07-17-8: refactor: normalize line endings in config.yml -->
 <!-- 2025-07-17-9: Simplify notification service implementation -->
+<!-- 2025-07-17-10: style: add usage example for undo/redo -->
