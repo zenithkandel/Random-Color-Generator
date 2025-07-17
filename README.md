@@ -255,3 +255,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-17-5: docs(ui): normalize line endings in docker-compose.yml -->
 <!-- 2025-07-17-6: fix: fix wrong date format in API client -->
 <!-- 2025-07-17-7: style: extend token manager with webhook events -->
+<!-- 2025-07-17-8: refactor: normalize line endings in config.yml -->
