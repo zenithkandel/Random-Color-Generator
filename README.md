@@ -264,3 +264,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-18-4: perf(db): remove dead code from auth module -->
 <!-- 2025-07-18-5: Fix failing test in report generator -->
 <!-- 2025-07-18-6: Update changelog -->
+<!-- 2025-07-18-7: Update README with batch processing instructions -->
