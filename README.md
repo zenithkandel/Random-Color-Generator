@@ -268,3 +268,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-18-8: refactor(ui): reduce memory usage in export service -->
 <!-- 2025-07-18-9: Implement rate limiting in event emitter -->
 <!-- 2025-07-18-10: Move route handler utility functions to separate module -->
+<!-- 2025-07-19-1: chore(core): restructure API client for clarity -->
