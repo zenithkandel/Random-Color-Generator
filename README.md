@@ -279,3 +279,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-19-9: Cache results in cache layer to speed up response -->
 <!-- 2025-07-20-1: Add role-based access support to report generator -->
 <!-- 2025-07-20-2: Extend database helper with two-factor auth -->
+<!-- 2025-07-20-3: Introduce cache invalidation functionality -->
