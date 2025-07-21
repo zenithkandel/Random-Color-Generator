@@ -291,3 +291,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-21-1: Patch logger to handle upload fails correctly -->
 <!-- 2025-07-21-2: chore: fix failing test in session manager -->
 <!-- 2025-07-21-3: Fix edge case where incorrect response code -->
+<!-- 2025-07-21-4: test: correct memory leak logic in database helper -->
