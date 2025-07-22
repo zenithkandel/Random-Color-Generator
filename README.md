@@ -312,3 +312,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-22-14: Cache results in search indexer to speed up response -->
 <!-- 2025-07-22-15: Improve validation util performance -->
 <!-- 2025-07-22-16: Add unit tests for settings page -->
+<!-- 2025-07-22-17: Fix edge case where broken pagination -->
