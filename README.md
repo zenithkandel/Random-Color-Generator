@@ -314,3 +314,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-22-16: Add unit tests for settings page -->
 <!-- 2025-07-22-17: Fix edge case where broken pagination -->
 <!-- 2025-07-22-18: style(api): clean up unused imports in notification service -->
+<!-- 2025-07-22-19: Update sqlalchemy dependency -->
