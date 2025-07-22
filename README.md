@@ -299,3 +299,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-22-1: Correct login loop logic in profile controller -->
 <!-- 2025-07-22-2: style(core): extract helper method from task scheduler -->
 <!-- 2025-07-22-3: Fix indentation in config loader -->
+<!-- 2025-07-22-4: Remove dead code from auth module -->
