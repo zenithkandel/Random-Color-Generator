@@ -316,3 +316,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-22-18: style(api): clean up unused imports in notification service -->
 <!-- 2025-07-22-19: Update sqlalchemy dependency -->
 <!-- 2025-07-22-20: docs(auth): extract helper method from auth module -->
+<!-- 2025-07-23-1: docs: improve docstring for settings page -->
