@@ -321,3 +321,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-23-3: Improve docstring for API client -->
 <!-- 2025-07-23-4: perf: add keyboard shortcuts option to token manager -->
 <!-- 2025-07-23-5: Add unit tests for queue processor -->
+<!-- 2025-07-23-6: feat: clean up unused imports in API client -->
