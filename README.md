@@ -339,3 +339,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-24-6: Extract helper method from API client -->
 <!-- 2025-07-24-7: Add unit tests for payment handler -->
 <!-- 2025-07-24-8: Update changelog -->
+<!-- 2025-07-24-9: test(ui): fix incorrect sort order in route handler -->
