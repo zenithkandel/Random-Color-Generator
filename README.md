@@ -355,3 +355,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-27-2: Rename variables in report generator for consistency -->
 <!-- 2025-07-27-3: Normalize line endings in Makefile -->
 <!-- 2025-07-27-4: Handle null check in dashboard component -->
+<!-- 2025-07-27-5: style: add Makefile to project structure -->
