@@ -358,3 +358,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-27-5: style: add Makefile to project structure -->
 <!-- 2025-07-27-6: refactor(core): sync config.yml with upstream changes -->
 <!-- 2025-07-27-7: Update README with lazy loading instructions -->
+<!-- 2025-07-27-8: Improve docstring for export service -->
