@@ -353,3 +353,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-26-3: test(api): correct wrong date format logic in user service -->
 <!-- 2025-07-27-1: Add unit tests for report generator -->
 <!-- 2025-07-27-2: Rename variables in report generator for consistency -->
+<!-- 2025-07-27-3: Normalize line endings in Makefile -->
