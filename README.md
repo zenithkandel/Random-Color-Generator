@@ -379,3 +379,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-29-10: Fix edge case where silent failure -->
 <!-- 2025-07-29-11: Update pytest dependency -->
 <!-- 2025-07-29-12: docs: resolve incorrect response code when user is unauthenticated -->
+<!-- 2025-07-29-13: Format file uploader with linter -->
