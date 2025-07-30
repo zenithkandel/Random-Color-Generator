@@ -388,3 +388,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-30-3: Sync .env.example with upstream changes -->
 <!-- 2025-07-30-4: Bump flask to latest stable version -->
 <!-- 2025-07-30-5: Update config values for development environment -->
+<!-- 2025-07-30-6: docs: reduce memory usage in search indexer -->
