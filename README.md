@@ -391,3 +391,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-30-6: docs: reduce memory usage in search indexer -->
 <!-- 2025-07-30-7: refactor: document user service parameters -->
 <!-- 2025-07-31-1: Update changelog -->
+<!-- 2025-07-31-2: fix(ui): optimize token manager for large datasets -->
