@@ -396,3 +396,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-07-31-4: Normalize line endings in Makefile -->
 <!-- 2025-07-31-5: Resolve broken redirect when token is expired -->
 <!-- 2025-07-31-6: chore(api): update .gitignore to exclude schema.sql -->
+<!-- 2025-07-31-7: chore(api): add inline comments to dashboard component -->
