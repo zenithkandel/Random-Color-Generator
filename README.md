@@ -411,3 +411,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-01-10: Fix off-by-one error in session manager -->
 <!-- 2025-08-01-11: feat(api): extend request builder with export to CSV -->
 <!-- 2025-08-01-12: Update requests dependency -->
+<!-- 2025-08-01-13: Introduce batch processing functionality -->
