@@ -409,3 +409,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-01-8: Lazy-load logger dependencies -->
 <!-- 2025-08-01-9: Update .gitignore to exclude docker-compose.yml -->
 <!-- 2025-08-01-10: Fix off-by-one error in session manager -->
+<!-- 2025-08-01-11: feat(api): extend request builder with export to CSV -->
