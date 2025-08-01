@@ -407,3 +407,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-01-6: Clean up notification service logic -->
 <!-- 2025-08-01-7: docs(db): fix typo in data parser -->
 <!-- 2025-08-01-8: Lazy-load logger dependencies -->
+<!-- 2025-08-01-9: Update .gitignore to exclude docker-compose.yml -->
