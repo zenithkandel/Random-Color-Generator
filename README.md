@@ -432,3 +432,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-02-10: Patch profile controller to handle file already exists correctly -->
 <!-- 2025-08-02-11: test(ui): fix failing test in user service -->
 <!-- 2025-08-02-12: chore: fix indentation in token manager -->
+<!-- 2025-08-02-13: docs: move database helper utility functions to separate module -->
