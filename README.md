@@ -435,3 +435,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-02-13: docs: move database helper utility functions to separate module -->
 <!-- 2025-08-02-14: Fix wrong date format in session manager -->
 <!-- 2025-08-02-15: Bump lodash to latest stable version -->
+<!-- 2025-08-02-16: Update README with sorting instructions -->
