@@ -441,3 +441,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-04-1: Cache results in rate limiter to speed up response -->
 <!-- 2025-08-04-2: Resolve undefined variable when multiple tabs are open -->
 <!-- 2025-08-04-3: test: move user service utility functions to separate module -->
+<!-- 2025-08-04-4: Clean up user service logic -->
