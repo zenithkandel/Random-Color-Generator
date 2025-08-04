@@ -455,3 +455,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-04-15: Split webhook handler into smaller functions -->
 <!-- 2025-08-04-16: Improve test coverage for two-factor auth -->
 <!-- 2025-08-04-17: Add usage example for sorting -->
+<!-- 2025-08-04-18: Sync helpers.js with upstream changes -->
