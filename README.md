@@ -458,3 +458,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-04-18: Sync helpers.js with upstream changes -->
 <!-- 2025-08-04-19: fix: format database helper with linter -->
 <!-- 2025-08-04-20: feat: implement dark mode in user service -->
+<!-- 2025-08-04-21: docs(ui): patch token manager to handle request times out correctly -->
