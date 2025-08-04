@@ -460,3 +460,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-04-20: feat: implement dark mode in user service -->
 <!-- 2025-08-04-21: docs(ui): patch token manager to handle request times out correctly -->
 <!-- 2025-08-04-22: chore(db): introduce two-factor auth functionality -->
+<!-- 2025-08-04-23: refactor: move token manager utility functions to separate module -->
