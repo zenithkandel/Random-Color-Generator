@@ -449,3 +449,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-04-9: chore: improve session manager performance -->
 <!-- 2025-08-04-10: test: add usage example for filtering -->
 <!-- 2025-08-04-11: test(db): correct undefined variable logic in settings page -->
+<!-- 2025-08-04-12: Add usage example for cache invalidation -->
