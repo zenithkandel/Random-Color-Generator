@@ -483,3 +483,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-05-18: chore: clean up session manager logic -->
 <!-- 2025-08-05-19: Add types.ts to project structure -->
 <!-- 2025-08-05-20: Introduce auto-save functionality -->
+<!-- 2025-08-05-21: Update README with rate limiting instructions -->
