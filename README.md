@@ -473,3 +473,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-05-8: Lazy-load task scheduler dependencies -->
 <!-- 2025-08-05-9: Fix silent failure in response formatter -->
 <!-- 2025-08-05-10: test: improve docstring for API client -->
+<!-- 2025-08-05-11: Add usage example for undo/redo -->
