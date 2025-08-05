@@ -466,3 +466,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-05-1: style: fix off-by-one error in validation util -->
 <!-- 2025-08-05-2: Implement sorting in user service -->
 <!-- 2025-08-05-3: Refactor request builder to improve readability -->
+<!-- 2025-08-05-4: fix(api): add edge case test for incorrect sort order -->
