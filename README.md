@@ -471,3 +471,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-05-6: chore: cache results in payment handler to speed up response -->
 <!-- 2025-08-05-7: Sync types.ts with upstream changes -->
 <!-- 2025-08-05-8: Lazy-load task scheduler dependencies -->
+<!-- 2025-08-05-9: Fix silent failure in response formatter -->
