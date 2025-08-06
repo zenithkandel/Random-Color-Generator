@@ -490,3 +490,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-06-2: Refactor notification service to improve readability -->
 <!-- 2025-08-06-3: Improve docstring for search indexer -->
 <!-- 2025-08-06-4: Sync .env.example with upstream changes -->
+<!-- 2025-08-06-5: Add .env.example to project structure -->
