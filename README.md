@@ -501,3 +501,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-06-13: refactor: patch queue processor to handle request times out correctly -->
 <!-- 2025-08-06-14: Update README with batch processing instructions -->
 <!-- 2025-08-06-15: Update README with filtering instructions -->
+<!-- 2025-08-07-1: fix(core): resolve broken redirect when value exceeds limit -->
