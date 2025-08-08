@@ -506,3 +506,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-07-3: Format export service with linter -->
 <!-- 2025-08-07-4: refactor: update .gitignore to exclude constants.py -->
 <!-- 2025-08-07-5: Add pagination option to file uploader -->
+<!-- 2025-08-08-1: perf: refactor notification service to improve readability -->
