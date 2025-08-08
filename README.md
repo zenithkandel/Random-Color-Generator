@@ -526,3 +526,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-08-18: Add dark mode support to route handler -->
 <!-- 2025-08-08-19: Remove dead code from user service -->
 <!-- 2025-08-08-20: Normalize line endings in utils.py -->
+<!-- 2025-08-08-21: Add keyboard shortcuts option to notification service -->
