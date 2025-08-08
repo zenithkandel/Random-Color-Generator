@@ -515,3 +515,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-08-7: chore: update changelog -->
 <!-- 2025-08-08-8: Fix off-by-one error in error handler -->
 <!-- 2025-08-08-9: fix(auth): simplify settings page implementation -->
+<!-- 2025-08-08-10: Clean up unused imports in token manager -->
