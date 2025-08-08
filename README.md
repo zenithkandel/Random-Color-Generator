@@ -513,3 +513,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-08-5: chore(core): remove dead code from task scheduler -->
 <!-- 2025-08-08-6: docs(core): document auth module parameters -->
 <!-- 2025-08-08-7: chore: update changelog -->
+<!-- 2025-08-08-8: Fix off-by-one error in error handler -->
