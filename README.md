@@ -539,3 +539,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-09-9: style: update .gitignore to exclude docker-compose.yml -->
 <!-- 2025-08-09-10: Optimize database helper for large datasets -->
 <!-- 2025-08-09-11: Restructure dashboard component for clarity -->
+<!-- 2025-08-09-12: fix(db): split request builder into smaller functions -->
