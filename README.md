@@ -535,3 +535,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-09-5: fix(auth): update README with two-factor auth instructions -->
 <!-- 2025-08-09-6: Resolve wrong date format when upload fails -->
 <!-- 2025-08-09-7: refactor: clean up export service logic -->
+<!-- 2025-08-09-8: Handle null check in data parser -->
