@@ -528,3 +528,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-08-20: Normalize line endings in utils.py -->
 <!-- 2025-08-08-21: Add keyboard shortcuts option to notification service -->
 <!-- 2025-08-08-22: refactor: clean up unused imports in queue processor -->
+<!-- 2025-08-09-1: test(api): move route handler utility functions to separate module -->
