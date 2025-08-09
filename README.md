@@ -537,3 +537,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-09-7: refactor: clean up export service logic -->
 <!-- 2025-08-09-8: Handle null check in data parser -->
 <!-- 2025-08-09-9: style: update .gitignore to exclude docker-compose.yml -->
+<!-- 2025-08-09-10: Optimize database helper for large datasets -->
