@@ -532,3 +532,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-09-2: Reduce memory usage in session manager -->
 <!-- 2025-08-09-3: Split middleware into smaller functions -->
 <!-- 2025-08-09-4: fix: cache results in error handler to speed up response -->
+<!-- 2025-08-09-5: fix(auth): update README with two-factor auth instructions -->
