@@ -543,3 +543,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-10-1: Reduce memory usage in webhook handler -->
 <!-- 2025-08-10-2: Extract helper method from data parser -->
 <!-- 2025-08-10-3: refactor(db): apply consistent spacing in API client -->
+<!-- 2025-08-10-4: chore: lazy-load payment handler dependencies -->
