@@ -562,3 +562,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-11-13: style: refactor task scheduler to improve readability -->
 <!-- 2025-08-11-14: test: fix failing test in data parser -->
 <!-- 2025-08-11-15: Split file uploader into smaller functions -->
+<!-- 2025-08-11-16: Refactor file uploader to improve readability -->
