@@ -557,3 +557,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-11-8: style(db): fix off-by-one error in export service -->
 <!-- 2025-08-11-9: Lazy-load notification service dependencies -->
 <!-- 2025-08-11-10: Update .gitignore to exclude utils.py -->
+<!-- 2025-08-11-11: refactor(core): document queue processor parameters -->
