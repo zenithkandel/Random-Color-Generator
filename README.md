@@ -555,3 +555,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-11-6: feat: correct undefined variable logic in settings page -->
 <!-- 2025-08-11-7: feat: bump express to latest stable version -->
 <!-- 2025-08-11-8: style(db): fix off-by-one error in export service -->
+<!-- 2025-08-11-9: Lazy-load notification service dependencies -->
