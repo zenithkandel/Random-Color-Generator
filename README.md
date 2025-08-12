@@ -573,3 +573,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-12-7: feat: extract helper method from rate limiter -->
 <!-- 2025-08-12-8: Implement pagination in profile controller -->
 <!-- 2025-08-12-9: Update changelog -->
+<!-- 2025-08-12-10: Add edge case test for missing validation -->
