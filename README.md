@@ -569,3 +569,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-12-3: perf(auth): update config values for staging environment -->
 <!-- 2025-08-12-4: Improve test coverage for infinite scroll -->
 <!-- 2025-08-12-5: Resolve broken pagination when upload fails -->
+<!-- 2025-08-12-6: Add constants.py to project structure -->
