@@ -587,3 +587,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-13-11: feat(db): update config values for development environment -->
 <!-- 2025-08-13-12: fix: add usage example for rate limiting -->
 <!-- 2025-08-13-13: Fix duplicate entries in queue processor -->
+<!-- 2025-08-13-14: docs: fix off-by-one error in route handler -->
