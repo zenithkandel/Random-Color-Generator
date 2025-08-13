@@ -594,3 +594,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-13-18: docs: improve data parser performance -->
 <!-- 2025-08-13-19: Add edge case test for login loop -->
 <!-- 2025-08-13-20: Add edge case test for stale cache data -->
+<!-- 2025-08-13-21: Move API client utility functions to separate module -->
