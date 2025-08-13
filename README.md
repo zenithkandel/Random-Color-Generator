@@ -598,3 +598,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-13-22: fix(ui): update changelog -->
 <!-- 2025-08-13-23: Clean up session manager logic -->
 <!-- 2025-08-13-24: style: patch logger to handle connection is lost correctly -->
+<!-- 2025-08-13-25: Extract helper method from search indexer -->
