@@ -576,3 +576,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-12-10: Add edge case test for missing validation -->
 <!-- 2025-08-13-1: perf(core): simplify rate limiter implementation -->
 <!-- 2025-08-13-2: Handle null check in search indexer -->
+<!-- 2025-08-13-3: Extract helper method from logger -->
