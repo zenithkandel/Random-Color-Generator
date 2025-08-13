@@ -590,3 +590,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-13-14: docs: fix off-by-one error in route handler -->
 <!-- 2025-08-13-15: docs: update changelog -->
 <!-- 2025-08-13-16: docs(auth): add batch processing support to task scheduler -->
+<!-- 2025-08-13-17: Format task scheduler with linter -->
