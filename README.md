@@ -606,3 +606,4 @@ Backdated commit for 2025-10-25
 <!-- 2025-08-14-5: Simplify response formatter implementation -->
 <!-- 2025-08-14-6: Clean up rate limiter logic -->
 <!-- 2025-08-14-7: Resolve duplicate entries when value exceeds limit -->
+<!-- 2025-08-14-8: perf(ui): update config values for test environment -->
