@@ -44,3 +44,4 @@ Open the `index.html` file in your browser — no setup required.
 
 ## License
 This project is open-source and free to use for learning and personal projects.
+
