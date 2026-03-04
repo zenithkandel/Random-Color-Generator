@@ -2,7 +2,7 @@
 
 A simple and interactive random color generator built using HTML, CSS, and JavaScript. Click the button to generate a random color and instantly copy its HEX code.
 
-## Live Preview
+## Live Preview 
 Open the `index.html` file in your browser — no setup required.
 
 ## Features
